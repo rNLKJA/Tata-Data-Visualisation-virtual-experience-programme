@@ -48,11 +48,93 @@ Marketing and Customer Strategy Management, Vol. 19, No. 3, pp. 197â€“208, 
 **Recommend Readings**
 - [PRSA - Article on how to think from the perspective of a CEO](https://www.theforage.com/modules/MyXvBcppsW2FkNYCX/cH3hG3rWkTY3MZ4qS?ref=SfSqDihCcvSen4csq)
 - [Datapine - Article on how to think from the perspective of a CEO](https://www.datapine.com/blog/ceo-dashboard-report-examples-and-templates/)
-- [Article on how to measure business performance](https://zipforecasting.com/en/what-is-business-analytics/business-performance.html)
+    - CEO Dashboard
+        
+        A CEO dashboard is a management reporting tool used to track, analyze, and visualize data. It's a brids-eye overview of the most prominent metrics that will help making the best possible decision in order to improve outcomes.
+    
+    - CEO Report
+    
+        A CEO report is a critical analytical tool that serves up historical trends, and real time insights in a way that's visual, digestible, and easy to navigate. These reports can be delivered in the form of an interactive dashboard or pdf file.
+    
+    - Benefits of CEO Reporting & Dashboard
+        1. Confidence, validation & trust
+        2. Decision making
+        3. Extensive data access
+        4. Flexibility & adaptability
+        5. Panoramic vision & BI
+        6. Performance review
+        7. Communication & innovation
 
-**My Solution**
+    - What info does CEO need in a Dashboard
+        - The right KPIs & metrics
+        - The right design & visualisations
+        - Management, marketing, finance & sales in one
+        - Performance data
+        - Growth insights
+        - Human resources (HR) information
+
+    - Tips for effective CEO reports
+        1. Concentrate on the big picture
+        2. Define performance targets
+        3. Consider your audience
+        4. Take appropriate time intervals
+        5. Don't concentrate only on past performance
+        7. Integrate all core areas of your business
+        8. Explore story-telling potential
+        9. Prioritize form & funciton over aesthetics
+        10. Learn from the bad and the good results
+        11. Keep evolving
+    
+- [Article on how to measure business performance](https://zipforecasting.com/en/what-is-business-analytics/business-performance.html)
+    - Improving sales and profitability is not a one-time task; it requires a continuous effort from all departments and operations over an extended period of time.
+    - Business performance management (BPM)
+        - also known as corporate performance management (CPM)
+        - enterprise performance management (EPM)
+        - refers to the methods, processes, and workflow that companines use to manage their performance.
+    - BPM standard processes:
+        - Budgeting and forecasting
+        - Business Modeling
+        - Dashboarding
+        - Scorecards
+        - Data Consolidation
+        - Management Systems
+        - Financial and Management Reporting
+        - Compliance, Corporate Governance, and Internal Control
+        - Rish Management
+        - Business and Predictive analytics
+    - Crucial BPM activities:
+        1. Select business goals and identify which systems and policies impact the company's progression towards the objectives
+        2. Gather and monitor information to analyze progression
+        3. Revie results and make adjustments where necessary to improve efficiency
+    - BPM could enhances decision-making, increases efficiency, unites departments, identifies risks.
+
+**My Questions**
+- Which country has the highest ROI? 
+- What are the top 10 stocks? How about their profitability? 
+- Who are our future, largest potential partners? 
+- What are the top-selling products?
+
+- Is there any preference for products we sell in a particular country when they buy our products? For example, are most of our French buyers looking into children's products? 
+- Why do we have so many orders from the United Kingdom? 
+- Why did we have fewer sales in Dec 2011 compared to Dec 2010? 
+- Why did we experience a sell peak in November 2011? 
 
 **Sample Solution**
+- Which region is generating the highest revenue, and which region is generating the lowest?
+- What is the monthly trend of revenue, which months have faced the biggest increase/decrease?
+- Which months generated the most revenue? Is there a seasonality in sales?
+- Who are the top customers and how much do they contribute to the total revenue?
+- Is the business dependent on these customers or is the customer base diversified?
+
+- What is the percentage of customers who are repeating their orders? Are they ordering the same products or different?
+- For the repeat customers, how long does it take them to place the next order after being delivered the previous one?
+- What revenue is being generated from the customers who have ordered more than once?
+- Who are the customers that have repeated the most? How much are they contributing to revenue?
+
+**Reflection**
+
+It's important to think from the CEO/CMO position. Considering you are running your own company, figure out what the most important KPIs are to help you increase the company's profitability. Also, a good company should have a good retention rate, so as a data analyist, you should discover the consumer behaviors. How loyal customers help our business, how much money we make from them, and how to keep their interest so they can create more value for us.
+
 
 ## [Choosing the Right Visuals](https://www.theforage.com/modules/MyXvBcppsW2FkNYCX/W5Y8mMZr85DnBa8Es?ref=SfSqDihCcvSen4csq)
 Learn which visuals are most effective in a given scenario.
