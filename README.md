@@ -139,11 +139,38 @@ It's important to think from the CEO/CMO position. Considering you are running y
 ## [Choosing the Right Visuals](https://www.theforage.com/modules/MyXvBcppsW2FkNYCX/W5Y8mMZr85DnBa8Es?ref=SfSqDihCcvSen4csq)
 Learn which visuals are most effective in a given scenario.
 
-1. Video instructions
-2. Background information
-3. Task brief
-4. Task resources
-5. Short conclusion
+**Background information**
+
+You have been asked by the CEO and CMO to provide visuals on the metrics that they wish to analyse for the online retail store. You will gather the requirements and provide them with the type of visual that would be best suited to the scenario. The senior management wants to understand how their business is performing and what areas are the key strengths of the company. They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future.
+
+You will be provided multiple visualisation requests by the CEO and you would need to provide the visual which would explain the data nad insights in the simplest possible manner. The visual should adequately convey the information that you are trying to present. This exercise is critical to the senior management as any incorrect representation can lead to a wrong message being conveyed, or a wrong decision taken by the management. Therefore, you would need to make sure that the correct visuals are used to represent each of data.
+
+**Task requirements**
+
+In this task, you will be required to read the questions carefully and understand that business requirement. 
+Once you have an idea of what is required from the perspective of the CEO and CMO, you will need to come up with perfect visual which will illustrate what the senior managers are looking for in each scenario. 
+Remember, data can be presented in multiple types of charts, but you are required to select the visual that would best display the information which is being presented.
+
+You will be provided resources on how to select visuals based on the different scenarios, these are available in resources section. These resources will help you get an idea on which visual to select for the given business scenario and will also guide you on how to choose the right chart or graph for your data. 
+Each question will contain a unique scenario and you will be expected to answer the questions based on that scenario.
+
+**Resources**
+
+<img src="https://cdn.theforage.com/vinternships/companyassets/ifobHAoMjQs9s6bKS/5XsFFJu2oCLdmYJW2/1657224770524/image001.png" width=80% align=center />
+
+- [A comprehensive Guide to the Grammar of Graphics](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
+- [How to Choose the Right Chart for Data Visualisation](https://www.analyticsvidhya.com/blog/2021/09/how-to-choose-the-right-chart-for-data-visualization/)
+
+
+Choosing right charts based upon need such as Comparison, Distribution, Relationship, and Composition.
+
+<img src="https://cdn.theforage.com/vinternships/companyassets/ifobHAoMjQs9s6bKS/5XsFFJu2oCLdmYJW2/1657225260380/image002.png" width=80% align=center />
+
+- [How to Choose the Right Chart for Your Data](https://infogram.com/page/choose-the-right-chart-data-visualization)
+
+- [Ultimate Guide to Choosing the Right Visual](https://towardsdatascience.com/ultimate-guide-to-choosing-the-right-visual-2a77aa8eec08)
+- [How to Choose the Right Data Visualisation](https://chartio.com/learn/charts/how-to-choose-data-visualization/)
+- [Which Type of Chart or Graph is Right for You?](https://www.tableau.com/learn/whitepapers/which-chart-or-graph-is-right-for-you)
 
 ## [Creating Effective Visuals](https://www.theforage.com/modules/MyXvBcppsW2FkNYCX/ifGZCL6vAeE9mzxt3?ref=SfSqDihCcvSen4csq)
 Apply your under and create visuals based on business scenarios.
